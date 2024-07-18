@@ -1,16 +1,21 @@
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
-
-#### GitHub
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+PhD student working on optimisation for machine learning. 
 
 
-#### Email
-sli[at]cumt.edu.cn
 
 #### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
 
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2022 - Present: Doctor of Philosophy, University of Queensland. Supervisor: Professor Fred Roosta. 
+
+2021: Bachelor of Mathematics (First Class Honours), University of Queensland.
+
+2017 - 2021: Bachelor of Mathematics and Economics, University of Queensland.
+
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+My research is focused on second and first order optimisation applied to problems in machine learning. 
+
+#### Email
+<o.smee@uq.edu.au>
+
+#### GitHub
+[![oscar-99](https://img.shields.io/badge/oscar99-github-blue?logo=github)](https://github.com/oscar-99)
