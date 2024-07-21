@@ -1,10 +1,9 @@
 PhD student working on optimisation for machine learning. 
 
 
-
 #### Education
 
-2022 - Present: Doctor of Philosophy, University of Queensland. Supervisor: Professor Fred Roosta. 
+2022 - Present: PhD, University of Queensland. Supervisor: Professor Fred Roosta. 
 
 2021: Bachelor of Mathematics (First Class Honours), University of Queensland.
 
