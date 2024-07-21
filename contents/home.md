@@ -7,7 +7,7 @@ PhD student working on optimisation for machine learning.
 
 2021: Bachelor of Mathematics (First Class Honours), University of Queensland.
 
-2017 - 2021: Bachelor of Mathematics and Economics, University of Queensland.
+2017 - 2020: Bachelor of Mathematics and Economics, University of Queensland.
 
 
 #### Research Interests
