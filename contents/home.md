@@ -11,7 +11,7 @@ PhD student working on optimisation for machine learning.
 
 
 #### Research Interests
-My research is focused on second and first order optimisation applied to problems in machine learning. 
+My research lies at the intersection of numerical linear algebra and nonlinear optimization, with an emphasis on the theoretical analysis and practical application of first and second order algorithms for large-scale, potentially nonconvex problems motivated by modern machine learning applications.
 
 #### Email
 <o.smee@uq.edu.au>

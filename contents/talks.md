@@ -1,0 +1,5 @@
+- **2025 Workshop on Optimisation, Metric Bounds, Approximation and Transversality (WOMBAT 2025)**: Co-organised and presented a talk at WOMBAT 2025 at The University of Queensland. 
+- **2025 International Conference on Continuous Optimization (ICCOPT 2025)** Attended and presented a talk at ICCOPT at The University of Southern California.
+- **2024 Workshop on Optimisation, Metric Bounds, Approximation and Transversality (WOMBAT 2024)** Presented a talk at WOMBAT 2024 at The University of Sydney. 
+- **The 41st International Conference on Machine Learning (ICML 2024)**: Attended and presented a poster for my paper `Inexact Newton-type Methods for Optimisation with Nonnegativity Constraints' in Vienna, Austria. 
+- **The 67th Annual Meeting of the Australian Mathematical Society**: Attended and presented a talk on inexact Newton methods for constrained optimisation at the University of Queensland. 

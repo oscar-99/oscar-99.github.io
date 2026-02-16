@@ -1,2 +1,2 @@
-- University Medal Awarded in 2022 (honours year).
-- Dean's Commendation for Academic Excellence in 7 Semesters. 
+- Bachelor of Mathematics (Hounours): First Class Honours and University Medal.
+- Bachelor of Mathematics/Economics: Dean's Commendation for Academic Excellence in 7 Semesters. 
